@@ -24,13 +24,11 @@ We believe that by combining technology with empathy, we can make a significant 
 # Team Members <img src="https://camo.githubusercontent.com/012932956a1c252e20a2e296e01ef7463b9d9d33cd00f6a33d77ad88c18c646c/68747470733a2f2f636f6e646974696f6e2d616c7068612e636f6d2f736f6674776172652f696d616765732f676974757365722e706e67" width="40" height="40"> 
 
 
-🤺 Alvis Abreo
+🤺 Nava Bhargav Gedda
 
-🤺 Saiyam Chettri
+🤺 Prajwal Surya Prakash
 
-🤺 Mayur C
-
-🤺 Reyona Ronald
+🤺 Apoorv Sharma
 
 # Project Overview
  
