@@ -18,6 +18,7 @@ Our solution employs advanced NLP techniques to analyze the language used in stu
 3. Counselor Notification: Notify school counselors discreetly when concerning language is detected.
 4. Support Ecosystem: Foster effective communication between students and counselors, creating a holistic support network.
 
+
 # Impact  <img src="https://www.impactmapping.org/assets/images/lightbulb.png" width="40" height="40"> 
 We believe that by combining technology with empathy, we can make a significant impact on students' lives. Early intervention and emotional support are crucial factors in preventing tragic outcomes. Our system is designed to enhance educators' and counselors' ability to reach out when students need it most.
 
